@@ -17,10 +17,9 @@ This course covers advanced statistical signal processing and machine learning a
 
 **Prerequisites:**
 
-- Probability (ELEC 303 or equivalent),
-- Linear algebra (Math 355 or equivalent),
+- E&M Phyics or basic circuits
+- Programming COMP140 or equivalent (i.e., CAAM212),
 - Python will be used for many of the homework assignments so some familiarity with scientific programming is critical.
-- New for 2021 ELEC 478 - Intro to Machine Learning - or equivalent. (key topics: Classifiers, Clustering, Dimensionality Reduction)
 
 **Objective:**
 
