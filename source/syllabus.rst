@@ -36,13 +36,14 @@ Students completing the course should be able to:
 
 **~Bi-Weekly Schedule:**
 
-- Fundamental Neurobiology
-- Modeling spike trains
-- Point processes
-- Classification
-- Clustering / Mixture models
-- Continuous Decoding
-- Spectral Analysis
+- Introduction and basic physiology of neurons
+- Signal processing in the time domain
+- Signal processing in the frequency domain
+- Signal processing in the spike domain
+- Neural decoding
+- Introduction to optogenetics and chemogenetics
+- Introduction to using intersectional genetics techniques
+
 
 **Grading:**
 
