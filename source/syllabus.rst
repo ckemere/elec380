@@ -30,13 +30,6 @@ Students completing the course should be able to:
 - Students are comfortable building generative models that describe neural activity either from first principles or using experimental data.
 - Students are comfortable using generative models to optimally decode underlying information from neural activity.
 
-**Grading:**
-
-Class grade will be based on homework assignments and the final project. You are welcome to work on homework in groups. One or two assignments may be given with instruction to complete individually. *NOTE: The grading may be updated over the course of the semester.*
-
-- 4-6 ~biweekly homework assignments (80%)
-- final project (20%)
-
 **~Bi-Weekly Schedule:**
 
 - Fundamental Neurobiology
@@ -46,4 +39,16 @@ Class grade will be based on homework assignments and the final project. You are
 - Clustering / Mixture models
 - Continuous Decoding
 - Spectral Analysis
+
+**Grading:**
+
+Class grade will be based on homework assignments and the final project. You are welcome to work on homework in groups. One or two assignments may be given with instruction to complete individually. *NOTE: The grading may be updated over the course of the semester.*
+
+- 4-6 ~biweekly homework assignments (80%)
+- final project (20%)
+
+**Honor Code:**
+
+While students are encouraged to work together on homework assignments, there are two critical notes. First, all assignments -- including code -- should reflect the knowledge gained by the individual students. It is unacceptable that identical work should be turned in -- at very least each student should have comments that reflect their own understanding. Second, if you develop an answer with other students, using online resources, or in consultation with the course staff, please note this in the assignment you turn in (there is no penalty for working together!). *Plagarism may result in a zero score for an assignment.*
+
 
