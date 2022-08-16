@@ -20,11 +20,11 @@ Course Information
 
 **Time** --- Mondays/Wednesdays 2 -- 3:15 pm
 
-**Canvas** --- LINK
+**Canvas** --- `https://canvas.rice.edu/courses/53862 <https://canvas.rice.edu/courses/53862>`_
 
-**Syllabus** --- :doc:`here <syllabus>`
+**Syllabus** --- :doc:`Here <syllabus>`
 
-**Lectures** --- LINK TO DROPBOX
+**Lectures** --- `Dropbox Link <https://www.dropbox.com/sh/w2h6ll6se8xej9u/AAAys6wRp4T7_HbsmE_BPoifa?dl=0>`_
 
 .. toctree::
    :hidden:
@@ -40,4 +40,5 @@ Course Information
    assignments/hw*/index
 
 
-**Useful Resources**
+Useful Resources
+################
