@@ -18,7 +18,7 @@ This course covers advanced statistical signal processing and machine learning a
 **Prerequisites:**
 
 - E&M Phyics or basic circuits
-- Programming COMP140 or equivalent (i.e., CAAM212),
+- Programming COMP140 or equivalent (i.e., CAAM210),
 - Python will be used for many of the homework assignments so some familiarity with scientific programming is critical.
 
 **Objective:**
