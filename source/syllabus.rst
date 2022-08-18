@@ -6,6 +6,7 @@ This course covers advanced statistical signal processing and machine learning a
 **Instructor:** Caleb Kemere
 
 **Course Assistants:** 
+
 - Zijing Guo <Zijing.Guo@rice.edu>
 - Samantha Coffler <sc134@rice.edu>
 - Yiwen Geng <Yiwen.Geng@rice.edu>
