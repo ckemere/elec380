@@ -2,3 +2,19 @@
 span.caption-text {
   font-weight: bold;
 }
+
+li.hwproblems {
+  padding-bottom: 20px;
+}
+
+.wy-side-nav-search, .wy-nav-top {
+  background-color: #00205B;
+}
+
+.wy-nav-side {
+  background-color: #44474F;
+}
+
+a, .wy-menu-vertical header, .wy-menu-vertical p.caption {
+  color: #4D9AD4;
+}
