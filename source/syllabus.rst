@@ -22,6 +22,11 @@ This course covers advanced statistical signal processing and machine learning a
 - Programming COMP140 or equivalent (i.e., CAAM210),
 - Python will be used for many of the homework assignments so some familiarity with scientific programming is critical.
 
+**Required Materials:**
+
+You will need a computer capable of running Python or Matlab. A laptop is preferred in order to allow you
+to participate in coding exercises during class.
+
 **Textbook:**
 
 No textbook is required, but some useful references include:
