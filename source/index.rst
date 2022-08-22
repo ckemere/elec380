@@ -22,6 +22,8 @@ Course Information
 
 **Canvas** --- `https://canvas.rice.edu/courses/53862 <https://canvas.rice.edu/courses/53862>`_
 
+**Zoom Link** --- ***See canvas!***
+
 **Syllabus** --- :doc:`Here <syllabus>`
 
 **Lectures** --- `Dropbox Link <https://www.dropbox.com/sh/w2h6ll6se8xej9u/AAAys6wRp4T7_HbsmE_BPoifa?dl=0>`_
