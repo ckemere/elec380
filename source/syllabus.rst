@@ -35,7 +35,7 @@ No textbook is required, but some useful references include:
 
 **Objective:**
 
-Students should learn the fundamentals of how the activity of neurons represents information within in the brain, how this activity can be monitored experimentally, and how to decode underlying information from the resulting neural data.
+Students should learn the fundamentals of how the activity of neurons represents information within in the brain, how this activity can be monitored experimentally, and how to decode underlying information from the resulting neural data. In addition, students should learn modern techniques for controlled perturbation of neural circuits.
 
 **Outcome:**
 
