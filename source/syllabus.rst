@@ -22,6 +22,12 @@ This course covers advanced statistical signal processing and machine learning a
 - Programming COMP140 or equivalent (i.e., CAAM210),
 - Python will be used for many of the homework assignments so some familiarity with scientific programming is critical.
 
+**Textbook:**
+
+No textbook is required, but some useful references include:
+- *Theoretical Neuroscience* by Dayan and Abbot.
+- *Principles of Neural Science* by Kandel, Koester, Mack, and Siegelbaum.
+
 **Objective:**
 
 Students should learn the fundamentals of how the activity of neurons represents information within in the brain, how this activity can be monitored experimentally, and how to decode underlying information from the resulting neural data.
@@ -51,6 +57,7 @@ Class grade will be based on homework assignments and the final project. You are
 
 - 4-6 ~biweekly homework assignments (80%)
 - final project (20%)
+- in class quizzes (TBD)
 
 **Honor Code:**
 
