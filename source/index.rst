@@ -24,6 +24,8 @@ Course Information
 
 **Zoom Link** --- ***See canvas!***
 
+**Slack** --- http://elec380.slack.com
+
 **Syllabus** --- :doc:`Here <syllabus>`
 
 **Lectures** --- `Dropbox Link <https://www.dropbox.com/sh/w2h6ll6se8xej9u/AAAys6wRp4T7_HbsmE_BPoifa?dl=0>`_
