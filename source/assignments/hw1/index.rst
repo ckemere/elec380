@@ -84,7 +84,7 @@ review molecular neurobiology.*
 8. *Passive Membrane and the Hodgkin Huxley Model of Action Potentials (40 pts)*
 
    Refer to *Theoretical and Computational Neuroscience* (Dayan and Abbot) Chapter 5.  Download and
-   run the HodgkinHuxley notebook `here<https://elec380.pages.dev/assignments/hw1/HodgkinHuxley.ipynb>`_ . 
+   run the `HodgkinHuxley notebook <https://elec380.pages.dev/assignments/hw1/HodgkinHuxley.ipynb>`_ . 
    
      **a.** Notice that in the simulation, with an extended period of current injection, multiple 
      action potentials will occur in a row. What is the rate at which they occur? (You may find it
