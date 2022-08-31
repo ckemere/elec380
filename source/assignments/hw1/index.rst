@@ -65,7 +65,7 @@ review molecular neurobiology.*
 
 
      **a.** Use the Nernst equation to fill in the individual equilibrium potentials for potassium, sodium,
-     and chloride in the table below. (You might find `this notebook helpful<Nernst and GHK Equations.ipynb >`.)
+     and chloride in the table below. (You might find `this notebook helpful <Nernst and GHK Equations.ipynb>`_.)
 
 .. csv-table::
    :header: "Ion", "Extracellular Conc.", "Intracellular Conc.", "Permeability", "Equilibrium Potential"
@@ -84,7 +84,7 @@ review molecular neurobiology.*
 8. *Passive Membrane and the Hodgkin Huxley Model of Action Potentials (40 pts)*
 
    Refer to *Theoretical and Computational Neuroscience* (Dayan and Abbot) Chapter 5.  Download and
-   run the `HodgkinHuxley notebook <HodgkinHuxley.ipynb>`_ . 
+   run the `HodgkinHuxley notebook <HodgkinHuxley.ipynb>`_. 
    
      **a.** Notice that in the simulation, with an extended period of current injection, multiple 
      action potentials will occur in a row. What is the rate at which they occur? (You may find it
@@ -103,6 +103,13 @@ review molecular neurobiology.*
      can be restored to maximum. What is the minimum delay between current 2 ms pulses for which the
      action potentials will all be the same?
 
+9. *Structure and Function of Neurons in the Superior Colliculus (40pts)*
 
+   Watch the Neuroengineering Seminar featuring Cris Neil (specifically the part about how mice process
+   visual information to hunt crickets). (Zoom recording link posted on Slack!)
+   How are neurons organized within and across layers in the superior colliculus?
+   When a mouse is hunting a cricket, which neurons in the superior colliculus are needed to
+   notice/locate the cricket when it is far away? Which ones are used to grab it when the mouse is
+   nearby? How do the physical structure of the dendritic arbors of the neurons relate to their function?
 
 
