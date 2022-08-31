@@ -106,7 +106,9 @@ review molecular neurobiology.*
 9. *Structure and Function of Neurons in the Superior Colliculus (40pts)*
 
    Watch the Neuroengineering Seminar featuring Cris Neil (specifically the part about how mice process
-   visual information to hunt crickets). (Zoom recording link posted on Slack!)
+   visual information to hunt crickets). (Zoom recording link posted on Slack! Also, note that this
+   work was published in Current Biology 
+   `Hoy et al, Current Biology 2019 <https://www.cell.com/current-biology/fulltext/S0960-9822(19)31323-5>`_)
    How are neurons organized within and across layers in the superior colliculus?
    When a mouse is hunting a cricket, which neurons in the superior colliculus are needed to
    notice/locate the cricket when it is far away? Which ones are used to grab it when the mouse is
