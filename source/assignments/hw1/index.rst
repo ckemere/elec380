@@ -65,15 +65,15 @@ review molecular neurobiology.*
 
 
      **a.** Use the Nernst equation to fill in the individual equilibrium potentials for potassium, sodium,
-     and chloride in the table below. (You might find `this notebook helpful<Nernst and GHK Equations.ipynb>`.)
+     and chloride in the table below. (You might find `this notebook helpful<Nernst and GHK Equations.ipynb >`.)
 
-    .. csv-table::
-        :header: "Ion", "Extracellular Conc.", "Intracellular Conc.", "Permeability", "Equilibrium Potential"
-        :width: 30%
+.. csv-table::
+   :header: "Ion", "Extracellular Conc.", "Intracellular Conc.", "Permeability", "Equilibrium Potential"
+   :width: 30%
 
-        K+, 8 mM, 150 mM, 1
-        Na+, 154 mM, 20 mM, 0.04 
-        Cl-, 123 mM, 4.2 mM, 0.45 
+   K+, 8 mM, 150 mM, 1
+   Na+, 154 mM, 20 mM, 0.04 
+   Cl-, 123 mM, 4.2 mM, 0.45 
 
      **b.** Use the GHK equation to find the net equilibrium membrane potential of a neuron with the given
      passive properties.
@@ -84,7 +84,7 @@ review molecular neurobiology.*
 8. *Passive Membrane and the Hodgkin Huxley Model of Action Potentials (40 pts)*
 
    Refer to *Theoretical and Computational Neuroscience* (Dayan and Abbot) Chapter 5.  Download and
-   run the HodgkinHuxley notebook `here<HodgkinHuxley.ipynb>`_ . 
+   run the HodgkinHuxley notebook `here<https://elec380.pages.dev/assignments/hw1/HodgkinHuxley.ipynb>`_ . 
    
      **a.** Notice that in the simulation, with an extended period of current injection, multiple 
      action potentials will occur in a row. What is the rate at which they occur? (You may find it
