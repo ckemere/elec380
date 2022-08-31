@@ -1,7 +1,7 @@
 Homework 1
 ##########
 
-*This problem set is due Monday (9/5/2022) at noon. Please turn in your
+*This problem set is due Friday (9/9/2022) at noon. Please turn in your
 work by uploading to Canvas. If you have questions, please post them on the
 course forum, rather than emailing the course staff. This will allow other
 students with the same question to see the response and any ensuing discussion.
