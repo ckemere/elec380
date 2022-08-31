@@ -66,13 +66,13 @@ review molecular neurobiology.*
    **a.** Use the Nernst equation to fill in the individual equilibrium potentials for potassium, sodium,
    and chloride in the table below. (You might find `this notebook helpful <Nernst and GHK Equations.ipynb>`_.)
 
-   .. csv-table::
-      :header: "Ion", "Extracellular Conc.", "Intracellular Conc.", "Permeability", "Equilibrium Potential"
-      :width: 30%
+.. csv-table::
+   :header: "Ion", "Extracellular Conc.", "Intracellular Conc.", "Permeability", "Equilibrium Potential"
+   :width: 30%
 
-      K+, 8 mM, 150 mM, 1
-      Na+, 154 mM, 20 mM, 0.04 
-      Cl-, 123 mM, 4.2 mM, 0.45 
+   K+, 8 mM, 150 mM, 1
+   Na+, 154 mM, 20 mM, 0.04 
+   Cl-, 123 mM, 4.2 mM, 0.45 
 
    **b.** Use the GHK equation to find the net equilibrium membrane potential of a neuron with the given
    passive properties.
