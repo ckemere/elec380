@@ -87,7 +87,7 @@ signals related to EEG and LFP.*
 4. *Power spectral density of alpha rhythms*
     
     The EEG data demoed in class (from `this source <https://hal.archives-ouvertes.fr/hal-02086581>`_
-    also described `here <https://github.com/plcrodrigues/py.ALPHA.EEG.2017-GIPSA`_) is provided to you 
+    also described `here <https://github.com/plcrodrigues/py.ALPHA.EEG.2017-GIPSA>`_) is provided to you 
     in the file :download:`alpha_data.npy<alpha_data.npy>`. You can load it by running::
 
         import numpy as np
