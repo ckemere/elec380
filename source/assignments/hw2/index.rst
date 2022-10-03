@@ -111,7 +111,8 @@ signals related to EEG and LFP.*
     **d.** From the spectrogram, it appears that the alpha oscillations shifts down in frequency
     with time. Compare the power spectral densities of the initial and final 5 seconds of each period.
     Do you see a difference in the peak frequency? How could you assess whether or not it was
-    significant? Compare with the data from subject 5 :download:`alpha_data_07.npy<alpha_data_07.npy>`. Do
+    significant? Compare with the data from subject 5 :download:`alpha_data_05.npy<alpha_data_05.npy>`
+    (or subject 7 :download:`alpha_data_07.npy<alpha_data_07.npy>`). Do
     you think this is a real effect?
 
 
