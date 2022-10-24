@@ -59,8 +59,9 @@ The goal of this problem set is to learn how to analyze spike trains.*
     (:code:`problem_data`). Based on it's shape, do you think that there are any periods in which the response 
     of the neuron is more or less variable?
 
-    **c.** Now generate Fano Factor plots for the first and second halves of the second neuron's data
-    (i.e., change :code:`problem_data` to :code:`problem_data[:500]` for the first half or 
+    **c.** Now generate mean, variance, and Fano Factor plots for the first and
+second halves of the second neuron's data (i.e., change :code:`problem_data` to
+:code:`problem_data[:500]` for the first half or 
     :code:`problem_data[500:]` for the second half). Based on what you see, what do you think
     explains variability that you might have seen in **b.**?
 
