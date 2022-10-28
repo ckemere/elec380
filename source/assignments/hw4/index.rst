@@ -11,13 +11,23 @@ by classification.*
 .. rst-class:: hwproblems
 
 For this homework, you'll need to download the data from the problems from
-(:download:`homework4data.npy <homework4data.npy>`).
+(:download:`homework4_spikes.npz <homework4_spikes.npz>` and 
+:download:`homework4_metadata.npy <homework4_metadata.npy>`).
 
 You can load it by::
 
-    with open('homework4data.npy', 'rb') as loadfile:
-        trial_spikes = np.load(loadfile, allow_pickle=True) # Data for example below
-        problem_data = np.load(loadfile, allow_pickle=True) # Data that you will use for your homework
+    with open('homework4_spikes.npz', 'rb') as loadfile:
+        spike_times = np.load(loadfile, allow_pickle=True)['spike_times']
+
+    with open('homework4_metadata.npy', 'rb') as loadfile:
+        metadata = np.load(loadfile)
+        time_touch_held = metadata['time_touch_held'] # target onset times for each trial
+        time_go_cue = metadata['time_go_cue'] # go cue time for each trial
+        time_target_acquired = metadata['time_target_acquired'] # time the target was touched
+        trial_reach_target = metadata['trial_reach_target'] # index of reach target for each trial (0 through 7)
+            # note that I've "fixed" the reach targets to be 0-7 rather than 1-8
+        target_locations = metadata['target_locations'] # x,y location of each target
+        target_angles = metadata['target_angles'] # angle of each target
 
 
 1. *Decoding Accuracy and the Plan Window*
