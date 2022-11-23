@@ -27,7 +27,7 @@ by classification.*
 
     **a.** What are three examples of promoters can be used to target neurons?
 
-    **b.** What does it mean for a transgene in a virus to be "FLEX"ed?
+    **b.** What does it mean for a transgene in a virus to be "FLEX"ed? (Note `this reference <https://bmcbiotechnol.biomedcentral.com/articles/10.1186/s12896-018-0462-x>`_ from Lecture 19!)
 
     **c.** How would you limit expression of a transgene such that it would only be expressed during a
     short time window of a few weeks (for example to study memory of a particular event)?
