@@ -42,6 +42,7 @@ Course Information
    :glob:
 
    assignments/hw*/index
+   assignments/final/index
 
 
 Useful Resources
