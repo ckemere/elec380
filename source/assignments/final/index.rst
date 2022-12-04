@@ -72,31 +72,28 @@ welcome to propose an alternative topic/problem -- please do so before the end o
     Your task for the final project is to explore decoding this data. At minimum, you need to do the following:
     
     #. Following the tutorial in reference 2, use place cell activity to decode the animals position
-    as they run through the maze. Note that the ratemap will be 1-dimensional (rate vs space) for this
-    project rather than 2-dimensional, so if you want to calculate it using the helper functions, you'll
-    need to use `TuningCurve1D` rather than `TuningCurve2D`. Run the whole process only on the first,
-    long-track portion of the data.
-    
+       as they run through the maze. Note that the ratemap will be 1-dimensional (rate vs space) for this
+       project rather than 2-dimensional, so if you want to calculate it using the helper functions, you'll
+       need to use ``TuningCurve1D`` rather than ``TuningCurve2D``. Run the whole process only on the first,
+       long-track portion of the data.
     #. Modify the code so that you use the first K laps to estimate the ratemap rather than the entire
-    long-track period. Calculate the decoding error for the subsequent laps. How does changing the value
-    of K change the error? (Note that if you are following the tutorial, when you calculate the run
-    epochs, laps will correspond to pairs of run epochs - one each for each direction on the track.)
-    Plot the actual and decoded trajectories.
-
+       long-track period. Calculate the decoding error for the subsequent laps. How does changing the value
+       of K change the error? (Note that if you are following the tutorial, when you calculate the run
+       epochs, laps will correspond to pairs of run epochs - one each for each direction on the track.)
+       Plot the actual and decoded trajectories.
     #. Use the place field ratemap for the long track to decode the position on the short track. Compare
-    this with what you get if you warp the position on the short track before calculating the error. 
-    If the position data is in a `short_track_pos` nelpy object, you can warp it by doing:
+       this with what you get if you warp the position on the short track before calculating the error. 
+       If the position data is in a ``short_track_pos`` nelpy object, you can warp it by doing: ::
         
-        warped_short_track_pos = short_track_pos
-        warped_short_track_pos.data = (warped_short_track_pos.data - offset) * scaling_factor
+          warped_short_track_pos = short_track_pos
+          warped_short_track_pos.data = (warped_short_track_pos.data - offset) * scaling_factor
 
-    where you've figured out by eye or by calculation what the `offset` and `scaling_factor`
-    should be for the short track to span the same length as the long track.
-
+       where you've figured out by eye or by calculation what the ``offset`` and ``scaling_factor``
+       should be for the short track to span the same length as the long track.
     #. Optionally you can do more analyses (the effect of the number of neurons, the effect of different smoothing
-    factors on decoding performance like in this paper `<https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.22714>`_, 
-    etc.). If you are interested in doing replay analysis, please reach out and we can share the times of SWR
-    with you.
+       factors on decoding performance like in this paper `<https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.22714>`_, 
+       etc.). If you are interested in doing replay analysis, please reach out and we can share the times of SWR
+       with you.
 
     References:
 
