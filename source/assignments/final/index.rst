@@ -64,6 +64,7 @@ welcome to propose an alternative topic/problem -- please do so before the end o
     In the references below, you'll see some example code that calculated place fields and
     decoded the position of a rat in 2D. For the final project, you need to do something similar.
     The data for the final project is found in the file :download:`final_project_data.nel <final_project_data.nel>`.
+    There are version issues that this updated file can fix - :download `final_project_data_updated.nel <final_project_data_updated.nel>`.
     This comprises the position data and spiking activity for a rat running in a linear track. Thus the
     position is 1-dimensional rather than 2-dimensional (as in the tutorial). 
     Example code showing how to load it is found in :download:`final_project_read_data.ipynb <final_project_read_data.ipynb>`
