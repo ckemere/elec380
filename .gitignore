@@ -1,4 +1,7 @@
 
+# Ipython backups    #
+.ipynb_checkpoints
+
 # OS generated files #
 ######################
 .DS_Store?
